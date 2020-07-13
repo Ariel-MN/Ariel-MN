@@ -1,5 +1,4 @@
-## Ariel Montes Nogueira - @Ariel-MN
-<hr>
+## Ariel Montes Nogueira - @Ariel-MN<hr>
 
 ### Software Developer
 <hr>

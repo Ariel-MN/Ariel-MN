@@ -1,5 +1,5 @@
 ## Ariel Montes Nogueira - Full Stack Web Developer
-[![Visits Badge](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
+[![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
 
 
 ### About me
@@ -14,4 +14,4 @@ I write about software development on [my blog](https://montesariel.com/blog). W
 [<img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/ariel_mn1/) &nbsp;&nbsp;
 
 
-[![shields.io](https://img.shields.io/badge/Website-montesariel.com-3385ff?style=plastic)](https://montesariel.com/)
+[![Personal website](https://img.shields.io/badge/Website-montesariel.com-3385ff?style=plastic)](https://montesariel.com/)

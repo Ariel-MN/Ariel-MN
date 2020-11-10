@@ -1,4 +1,5 @@
-## Ariel Montes Nogueira - Full Stack Web Developer &nbsp; [![Visits Badge](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
+## Ariel Montes Nogueira - Full Stack Web Developer
+[![Visits Badge](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
 
 
 ### About me

@@ -11,3 +11,6 @@ I write about software development on [my blog](https://montesariel.com/blog). W
 [<img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/linkedin.svg" alt="linkedin" width="25"></img>](https://linkedin.com/in/ariel-mn/en) &nbsp;&nbsp;
 [<img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/stackoverflow.svg" alt="stackoverflow" width="25"></img>](https://stackoverflow.com/story/ariel-mn) &nbsp;&nbsp;
 [<img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/ariel_mn1/) &nbsp;&nbsp;
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN)](https://montesariel.com/)

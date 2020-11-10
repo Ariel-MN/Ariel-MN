@@ -13,4 +13,4 @@ I write about software development on [my blog](https://montesariel.com/blog). W
 [<img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/instagram.svg" alt="instagram" width="25"></img>](https://www.instagram.com/ariel_mn1/) &nbsp;&nbsp;
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=blue)](https://montesariel.com/)
+[![Visits Badge](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://montesariel.com/)

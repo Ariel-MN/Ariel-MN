@@ -1,14 +1,16 @@
+<span align="right">
+
+  [![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
+
+</span>
+
 <span align="center">
   
   ## Ariel Montes Nogueira 
   
 </span>
 
-<span align="right">
 
-  [![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
-
-</span>
 
 <span align="center">
   

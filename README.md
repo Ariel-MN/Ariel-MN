@@ -1,6 +1,10 @@
-## Ariel Montes Nogueira
-[![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
+## Ariel Montes Nogueira 
 
+<span align="right">
+  
+  [![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Ariel-MN?style=plastic&color=3385ff)](https://github.com/Ariel-MN)
+  
+</span>
 
 ### About me
 I’m a full stack web developer focused on scalable web apps, with more than 2 years' experience building software. Graduated as “Superior Technician for Smart City & Energy Clean Management” in the biennial ITS / EQF5 course organized by “Fondazione Green” and its partners (Stiima-CNR and UniBs) and previously graduated from a three-year Technical School with the title of “Computer Technician”, I’m a software development and digital art enthusiast, constantly improving my skills thought a “learn by doing” approach.

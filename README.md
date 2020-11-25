@@ -36,8 +36,12 @@ I write about software development on [my blog](https://montesariel.com/blog). W
 
 ### Happy with my work?
 
-<a href="https://www.paypal.com/donate?hosted_button_id=YZQYKLWCUW862">
-  <img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/bmc-coffee.gif" alt="Buy me a cofee" width="180" />
-</a>
-
 </span>
+
+<p align="center">
+
+  <a href="https://www.paypal.com/donate?hosted_button_id=YZQYKLWCUW862">
+    <img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/bmc-coffee.gif" alt="Buy me a cofee" width="180" />
+  </a>
+
+</p>

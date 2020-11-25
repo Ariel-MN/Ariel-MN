@@ -50,6 +50,6 @@ I write about software development on [my blog](https://montesariel.com/blog). W
 
 <span align="center">
   
-  #### do not forget to give a :star: if its useful to you
+  #### Do not forget to give a :star: if its useful to you
   
 </span>

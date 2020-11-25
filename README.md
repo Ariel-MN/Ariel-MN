@@ -34,14 +34,20 @@ I write about software development on [my blog](https://montesariel.com/blog). W
 
 <br>
 
-### Happy with my work?
+####  If you found one of my projects helpful or you learned something from the source code and want to thank me <br> consider buying me a cup of ☕️ 
 
 </span>
 
 <p align="center">
 
   <a href="https://www.paypal.com/donate?hosted_button_id=YZQYKLWCUW862">
-    <img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/bmc-coffee.gif" alt="Buy me a cofee" width="180" />
+    <img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/bmc-coffee.gif" alt="Buy me a cofee" title="PayPal - The safer, easier way to pay online!" width="180" />
   </a>
 
 </p>
+
+<span align="center">
+  
+  #### do not forget to give a :star: if its useful to you
+  
+</span>
